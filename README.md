@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akilan</h1>
 <h3 align="center">Cybersecurity Enthusiast | Python Developer | Linux Expert | Digital Forensics Analyst</h3>
 
-- 🔭 I’m currently working on **Blue team Tool**
+- 🔭 I’m currently working on **Blue team Tool.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
