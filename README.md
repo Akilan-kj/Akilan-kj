@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akilan-kj&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="akilan-kj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akilan-kj&theme=dark" alt="akilan-kj" /></p>
+
