@@ -8,8 +8,7 @@
 <a href="https://linkedin.com/in/akilan-kj-cysec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akilan-kj-cysec" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25114109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25114109" height="30" width="40" /></a>
 <a href="https://medium.com/@kjsgsjaakilan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kjsgsjaakilan" height="30" width="40" /></a>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2193889">
-</iframe>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2193889" height="280" width="480" />/iframe>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
