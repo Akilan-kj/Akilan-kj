@@ -51,7 +51,7 @@ I'm a cybersecurity enthusiast specializing in both red team and purple team ope
 
 ---
 # Tryhackme 🏆
-<img src="https://tryhackme-badges.s3.amazonaws.com/Lucifer03AK.png" alt="TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/Lucifer03AK.png"/>
 
 ---
 
