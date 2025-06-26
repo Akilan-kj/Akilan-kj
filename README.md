@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a cybersecurity enthusiast specializing in both red team and purple team operations. My journey blends offensive security—simulating real-world attacks, penetration testing, and adversary emulation—with a collaborative, purple team mindset that bridges the gap between attack and defense.
+I'm a cybersecurity enthusiast specializing in both red team and purple team operations. My journey blends offensive security-simulating real-world attacks, penetration testing, and adversary emulation-with a collaborative, purple team mindset that bridges the gap between attack and defense.
 
 - 🚩 **Red Team:** Skilled in penetration testing, vulnerability assessment, exploit development, malware analysis, and adversary simulation using tools like Metasploit, Cobalt Strike, and custom scripts. I enjoy uncovering weaknesses and testing security controls through real-world attack scenarios.
 - 🟣 **Purple Team:** Passionate about integrating offensive and defensive strategies. I collaborate to validate detection capabilities, enhance incident response, and build resilient security postures. My work includes threat emulation, detection engineering, and continuous improvement exercises to strengthen organizational defenses.
