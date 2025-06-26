@@ -48,17 +48,10 @@ I'm a cybersecurity enthusiast specializing in both red team and purple team ope
 ![Osquery](https://img.shields.io/badge/Osquery-000000?style=for-the-badge)
 ![Sigma](https://img.shields.io/badge/Sigma-000000?style=for-the-badge)
 
-**Other Skills:**  
-- SIEM Monitoring, Incident Response, Threat Intelligence  
-- Vulnerability Management, Digital Forensics, Detection Engineering  
-- Familiar with Windows, Linux, Active Directory, Microsoft 365  
-- MITRE ATT&CK, NIST CSF, Cyber Kill Chain frameworks  
-- Communication, Collaboration, Technical Documentation
 
 ---
-## 🏆 TryHackMe Badge
-[<img src="https://tryhackme-badges.s3.amazonaws.com/Lucifer03AK.png" alt="TryHackMe Badge" />](https://tryhackme.com/p/Lucifer03AK)
-
+# Tryhackme 🏆
+<img src="https://tryhackme-badges.s3.amazonaws.com/Lucifer03AK.png" alt="TryHackMe Badge" />
 
 ---
 
